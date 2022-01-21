@@ -648,13 +648,13 @@ h6,
 p,
 label,
 .btn{
-    font-family: "helvetica";
+    font-family: "helvetica", Arial;
     font-weight: 400;
     color: #424242;
 }
 
 a {
-    font-family: "helvetica";
+    font-family: "helvetica", Arial;
     font-weight: 400;
     color: #000000;
 }
@@ -697,7 +697,7 @@ p {
 
 .h1 {
     font-size: 20px;
-    font-family: "Open Sans";
+    font-family: "Open Sans", Arial;
 }
 
 .cta-hero {
