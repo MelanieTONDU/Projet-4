@@ -705,7 +705,7 @@ p {
     color: #FFFFFF!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
-    font-size: 22px;
+    font-size: 21px;
     font-weight: 700;
 }
 
@@ -789,12 +789,12 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background-color:#a8684a;
+    background: blue;
     color: #ffffff!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background-color:#F3976C ;
+    background: #F3976C ;
     color: #ffffff;
 }
 
