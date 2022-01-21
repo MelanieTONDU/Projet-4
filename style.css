@@ -650,13 +650,13 @@ label,
 .btn{
     font-family: "helvetica";
     font-weight: 400;
-    color: #424242!important;
+    color: #424242;
 }
 
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #000000!important;
+    color: #000000;
 }
 
 .col-sm-4{
