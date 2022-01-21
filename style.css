@@ -103,10 +103,6 @@ a:hover {
     color: rgba(255, 255, 255, .7);
 }
 
-.col-sm-4{
-    color: #000000;
-    padding-top: 20px;
-}
 .d-bloc button:hover {
     color: rgba(255, 255, 255, .9);
 }
@@ -654,7 +650,7 @@ label,
 .btn{
     font-family: "helvetica";
     font-weight: 400;
-    color: #3e3d3d!important;
+    color: #575757!important;
 }
 
 a {
@@ -662,6 +658,12 @@ a {
     font-weight: 400;
     color: #000000!important;
 }
+
+.col-sm-4{
+    padding-top: 20px;
+    color: #000000;
+}
+
 .container {
     max-width: 1000px;
 }
