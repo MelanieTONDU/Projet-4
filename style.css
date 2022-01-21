@@ -639,14 +639,14 @@ label,
 .btn{
     font-family: "helvetica", Arial;
     font-weight: 400;
-    color: #424242;
+    color: #2e2e2e;
 }
 
 a {
     font-family: "helvetica", Arial;
     font-weight: 400;
     color: #000000;
-    font-size: 19px;
+    font-size: 17px;
 }
 
 .col-sm-4{
@@ -704,8 +704,8 @@ p {
     margin: auto auto auto auto;
 }
 .social-text{
-    color: #000000;
-    font-size: 22px;
+    color: #1b1b1b;
+    font-size: 20px;
     padding-left: 5px;
 }
 
@@ -786,12 +786,12 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #a8684a;
-    color: #ffffff!important;
+    background: #F3976C;
+    color: #222222!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #F3976C ;
+    background: #fc8853 ;
     color: #ffffff;
 }
 
