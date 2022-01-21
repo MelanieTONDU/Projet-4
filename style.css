@@ -648,12 +648,7 @@ a {
     color: #000000;
     font-size: 19px;
 }
-h4{
-    font-family: "helvetica", Arial;
-    font-weight: 400;
-    color: #000000;
-    font-size: 21px;
-}
+
 .col-sm-4{
     padding-top: 20px;
     color: #000000;
@@ -705,8 +700,13 @@ p {
 }
 
 .social {
-    max-width: 400px;
+    max-width: 600px;
     margin: auto auto auto auto;
+}
+.icon-md span{
+    color: white;
+    font-size: 22px;
+    padding-left: 5px;
 }
 
 h2 {
@@ -897,9 +897,6 @@ h4 {
         font-size: 17px;
     }
 
-    h4{
-        font-size: 19px;
-    }
 }
 
 @media (max-width: 767px) {
