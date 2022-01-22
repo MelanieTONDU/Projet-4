@@ -647,6 +647,7 @@ a {
     font-weight: 400;
     color: #000000;
     font-size: 17px;
+    padding: 12px 0 12px 0;
 }
 
 .col-sm-4{
@@ -832,6 +833,9 @@ h4 {
     background-image: url("img/image-de-presentation.webp");
 }
 
+.text-p2{
+    font-size: 18px;
+}
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
@@ -879,10 +883,7 @@ h4 {
         overflow-x: hidden;
         position: relative;
     }
-    .bloc {
-        padding-left: constant(safe-area-inset-left);
-        padding-right: constant(safe-area-inset-right);
-    }
+    
     .bloc-group,
     .bloc-group .bloc {
         display: block;
@@ -891,8 +892,6 @@ h4 {
     .bloc-fill-screen .fill-bloc-top-edge,
     .bloc-fill-screen .fill-bloc-bottom-edge {
         padding: 0 20px;
-        padding-left: constant(safe-area-inset-left);
-        padding-right: constant(safe-area-inset-right);
     }
     
     a{
@@ -1035,6 +1034,14 @@ h4 {
     .blocsapp-device-iphone5 img {
         width: 180px;
         height: 320px;
+    }
+
+    footer a{
+        font-size: 22px;
+    }
+
+    footer h3{
+        font-size: 25px;
     }
 }
 
