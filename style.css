@@ -354,6 +354,10 @@ a:hover {
     z-index: 2;
 }
 
+.width img{
+    width: 100%;
+}
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
