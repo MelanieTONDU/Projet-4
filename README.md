@@ -1,4 +1,4 @@
-# PROJET 4 : Optimiser un site web existant (Accessibilité, SEO, performance...)
+# PROJET 4 : Optimiser un site web existant
 
 
 ### **À propos :**
@@ -19,7 +19,3 @@ Vous pouvez consulter le résultat de mon travail ici : https://melanietondu.git
   - Optimiser le référencement d'un site web
   - Réaliser une recherche des bonnnes pratiques en développement web
   - Optimiser la taille et la vitesse d'un site web
-  
-
-
-
